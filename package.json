@@ -1,0 +1,29 @@
+{
+  "name": "eumsunt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "license": "GPL-2.0",
+  "author": "MoniqueTorphy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EasterHomenick/eumsunt.git"
+  },
+  "description": "minimal library to decode a signed raw Ethereum transaction",
+  "keywords": [
+    "web3.js",
+    "web3",
+    "ethereum",
+    "fugit",
+    "sendRawTransaction",
+    "solidity",
+    "solc",
+    "geth",
+    "voluptatem",
+    "dapp",
+    "sunt",
+    "dapphub",
+    "repellat",
+    "autem"
+  ]
+}
